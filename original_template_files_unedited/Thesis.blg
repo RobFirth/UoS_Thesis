@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: Thesis.aux
+The style file: unsrtnat.bst
+Database file #1: Bibliography.bib
+You've used 3 entries,
+            2488 wiz_defined-function locations,
+            580 strings with 4990 characters,
+and the built_in function-call counts, 1307 in all, are:
+= -- 119
+> -- 57
+< -- 1
++ -- 22
+- -- 16
+* -- 120
+:= -- 210
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 6
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 57
+empty$ -- 116
+format.name$ -- 21
+if$ -- 268
+int.to.chr$ -- 1
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 26
+num.names$ -- 9
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 84
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 21
+warning$ -- 0
+while$ -- 12
+width$ -- 0
+write$ -- 52
