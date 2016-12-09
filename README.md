@@ -1,2 +1,12 @@
-# UoS_Thesis
-University of Southampton Thesis Templates
+# UoS_Thesis #
+_University of Southampton Thesis Templates_
+
+
+The Thesis template file `Thesis.cls', is based on 'ECSthesis.cls', by Steve R. Gunn
+generated with the docstrip utility.
+Created by Steve R. Gunn, modified by Sunil Patel: www.sunilpatel.co.uk
+
+Further (very minor) modifications by R. Firth: https://github.com/RobFirth
+
+Information about submission etc can be found here:
+http://www.southampton.ac.uk/quality/pgr/research_degree_candidature/completion.page?
