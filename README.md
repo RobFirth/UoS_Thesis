@@ -1,6 +1,7 @@
 # UoS_Thesis #
 _University of Southampton Thesis Templates_
 
+Put on GitHub by Rob E. Firth (https://github.com/RobFirth / www.southampton.ac.uk/~ref1g12 ).
 
 The Thesis template file `Thesis.cls', is based on 'ECSthesis.cls', by Steve R. Gunn
 generated with the docstrip utility.
